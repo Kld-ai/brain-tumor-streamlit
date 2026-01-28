@@ -2,5 +2,5 @@ streamlit
 torch
 numpy
 torchvision
-matplotlib
+pillow
 
